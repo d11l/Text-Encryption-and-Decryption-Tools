@@ -28,9 +28,9 @@ export default function Home() {
         <p>A transposition cipher is a method of encryption where the positions of the characters in the plaintext are shifted according to a regular system to form the ciphertext.</p>
         <p>Characteristics:</p>
             <ul>
-                <li>Rearranges the characters in the plaintext.</li>
-                <li>Does not replace characters like substitution ciphers.</li>
-                <li>Simple implementation but less secure compared to modern ciphers.</li>
+              <li>Rearranges the Columns</li>
+              <li>The same characters and their frequency are preserved in the ciphertext.</li>
+              <li>Simple implementation but less secure compared to modern ciphers.</li>
             </ul>
         </div>    
         <Button variant="contained" > 
